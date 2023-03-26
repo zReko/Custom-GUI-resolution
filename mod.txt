@@ -1,0 +1,14 @@
+{
+	"name" : "Custom GUI resolution",
+	"description" : "",
+	"author" : "zReko",
+	"contact" : "zReko#0882",
+	"blt_version" : 2,
+	"color" : "0.043 0.808 0.6",
+	"priority" : "0",
+	"version" : "1.0",
+	"hooks" : [
+		{"hook_id":"lib/managers/menumanager","script_path":"lua/menumanager.lua"}
+		{"hook_id":"core/lib/managers/coreguidatamanager","script_path":"lua/coreguidatamanager.lua"},
+	]
+}

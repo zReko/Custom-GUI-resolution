@@ -1,0 +1,5 @@
+{
+    "CustomGUIres_main_title" : "Custom GUI resolution",
+    "CustomGUIres_title" : "Resolution",
+    "CustomGUIres_desc" : "Restart game or start a new heist for changes to apply"
+}
